@@ -26,4 +26,4 @@ There are a jupyter notebook and a html file.
 My Blog [Caoconghan CNN Blog](http://blog.sina.com.cn/s/blog_19a399df20102ym3q.html) describe the whole process in detail.
 
 [Deep Learning](https://cn.udacity.com/course/deep-learning--ud730)  from Udacity free course.
-# Dog_Breed_Classify
+
